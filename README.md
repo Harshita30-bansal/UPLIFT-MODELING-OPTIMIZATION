@@ -1,4 +1,4 @@
-#📈Uplift Modeling - Optimization: DragonNet (Hard) vs T-Learner (Easy)
+###📈Uplift Modeling - Optimization: DragonNet (Hard) vs T-Learner (Easy)
 
 This project implements and compares two uplift modeling approaches:
 
