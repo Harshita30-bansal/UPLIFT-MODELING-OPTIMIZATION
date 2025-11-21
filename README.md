@@ -1,4 +1,4 @@
-# Uplift Modeling - Optimization: DragonNet (Hard) vs T-Learner (Easy)
+#📈Uplift Modeling - Optimization: DragonNet (Hard) vs T-Learner (Easy)
 
 This project implements and compares two uplift modeling approaches:
 
@@ -9,7 +9,7 @@ The goal is to estimate individual treatment effects (ITE) and evaluate which me
 
 ---
 
-## Overview
+## 🚀Overview
 
 Uplift modeling predicts how much a treatment (such as an ad or offer) changes user behavior.  
 This project includes:
@@ -39,7 +39,7 @@ uplift = y1_pred - y0_pred
 
 ---
 
-## Evaluation Metrics
+## 📊Evaluation Metrics
 
 ### AUUC (Area Under the Uplift Curve)
 Measures cumulative uplift gain as users are ranked by predicted uplift.
